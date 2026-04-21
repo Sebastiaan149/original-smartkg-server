@@ -9,11 +9,12 @@
   },
 
   "datasources": {
-    "watdiv": {
-      "title": "watdiv",
+    "smartkg": {
+      "title": "smartkg",
       "type": "HdtDatasource",
-      "description": "WatDiv DataSet with an HDT back-end",
-      "settings": { "file": "../data/dataset.hdt" }
+      "description": "SmartKG DataSet with an HDT back-end",
+      "settings": { "file": "../data/dataset.hdt" },
+      "serverType": "original-smartkg"
     }
 
   },
