@@ -4,6 +4,8 @@ To run the Original SmartKG Server, follow the instructions below:
 
 From the root directory of the project, you can build the server using maven:
 
+NOTE: the following commands were executed using Java 21.
+
 ```
 mvn install
 ```
